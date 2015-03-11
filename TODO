@@ -1,3 +1,0 @@
-[ ]  Find a better way obtain the hostid of a system.  Ideally one that is done
-     via python and does not call external scripts
-[ ]  Add tests
